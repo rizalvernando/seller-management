@@ -5,7 +5,7 @@
 
 ## Quick start
 
-- Clone the repo: `git clone ${url}`
+- Clone the repo: `git clone https://github.com/rizalvernando/seller-management.git`
 - Open root folder : `cd seller-management`
 - Install Depedencies: `npm install`
 - Run App Dev: `npm start`
